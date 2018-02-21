@@ -766,3 +766,6 @@ Progress (1): 167/291 kBProgress (1): 171/291 kBProgress (1): 176/291 kBProgr
 2018-02-21 10:50:58.733  INFO 6372 --- [           main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 0
 2018-02-21 10:50:58.926  INFO 6372 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8011 (http)
 2018-02-21 10:50:58.938  INFO 6372 --- [           main] c.e.a.ActuatorSampleApplication          : Started ActuatorSampleApplication in 3.548 seconds (JVM running for 208.704)
+2018-02-21 11:16:28.990  INFO 6372 --- [nio-8011-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-02-21 11:16:28.990  INFO 6372 --- [nio-8011-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2018-02-21 11:16:29.002  INFO 6372 --- [nio-8011-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 12 ms
